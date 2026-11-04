@@ -1,6 +1,6 @@
 {
-  "version": "1.2.1",
-  "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.2.1/Legends-Setup-1.2.1.exe",
-  "sha256": "cc4d28adb1f80d2bfbe3fe5e85290e89880a7d6e84952d65dcd651dd73b5a669",
-  "notes": "Legends 1.2.1 - updates now come from the alphaomega-tools repository."
+  "version": "1.3.0",
+  "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.3.0/Legends-Setup-1.3.0.exe",
+  "sha256": "b78302691b66dae9ba23fe42efe36ca97bf0b1587209b58fa18cc0a433b8addb",
+  "notes": "Legends 1.3.0 - its own computer list in Alpha Omega Admin."
 }
