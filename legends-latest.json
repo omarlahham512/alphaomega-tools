@@ -1,6 +1,6 @@
 {
-  "version": "1.4.0",
-  "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.4.0/Legends-Setup-1.4.0.exe",
-  "sha256": "408aa86ef5d9440f93f72fb33ccf912ec24cd6c4250f092f903e60c594321ae2",
-  "notes": ""
+  "version": "1.4.1",
+  "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.4.1/Legends-Setup-1.4.1.exe",
+  "sha256": "773c1b5d752342bdb1b352b76e280e2ba6256bb2dc69f4f45f7737939a4f8d6d",
+  "notes": "Legends 1.4.1 - setup fixed when run twice or over an old copy."
 }
