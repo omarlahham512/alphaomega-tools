@@ -2,5 +2,19 @@
   "version": "1.4.1",
   "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.4.1/Legends-Setup-1.4.1.exe",
   "sha256": "773c1b5d752342bdb1b352b76e280e2ba6256bb2dc69f4f45f7737939a4f8d6d",
-  "notes": "Legends 1.4.1 - setup fixed when run twice or over an old copy."
+  "notes": "Legends 1.4.1 - setup fixed when run twice or over an old copy.",
+  "offers": [
+    {
+      "to": [
+        "34VG-HHKL-JBYX",
+        "7EOV-UB23-AFHX",
+        "RA2B-J5TS-GW3E"
+      ],
+      "label": "KHALED, emad, obada",
+      "version": "1.4.4",
+      "url": "https://github.com/omarlahham512/alphaomega-tools/releases/download/legends-v1.4.4/Legends-Setup-1.4.4.exe",
+      "sha256": "2a00f6e63368d316cd5ddd123ae4614304f4de1f706b810fa9d3caba498d15ac",
+      "notes": "fixing bugs"
+    }
+  ]
 }
